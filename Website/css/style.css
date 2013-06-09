@@ -116,7 +116,11 @@ a:active { color: #EC3F51 }
 
 .third
 {
-	height: 10em;
+	height: 8em;
+}
+
+.content-separator {
+	height: 1.5em;
 }
 
 .first-separator {
