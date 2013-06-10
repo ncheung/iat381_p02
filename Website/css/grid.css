@@ -11,6 +11,7 @@
 	padding: 0;
 	width: 100%;
 	max-width: 950px;
+	overflow:hidden;
 }
 
 .row {
@@ -44,17 +45,6 @@
 .eleven { width: 91.666666667%; }
 .twelve { width: 100%; }
 
-/*
-.edge { width: 8.333333333%; }
-.heading-column{ width: 15.5%; }
-.heading-content-column { width: 1.666666666%; }
-.content-column { width: 53%; }
-.album-column { width: 17.666666666%; max-width:300px; }
-.content-sidebar-column { width: 4.833333334%; }
-.sidebar-column { width: 25%; }
-*/
-
-.edge { width: 8.333333333%; }
 .heading-column{ width: 20.666666666%; }
 .heading-content-column { width: 2.222222222%; }
 .content-column { width: 70.666666666%; }
