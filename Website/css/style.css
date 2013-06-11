@@ -229,6 +229,7 @@ nav ul li {
 /*	border: 1px solid #000000;*/
 }
 
+<<<<<<< HEAD
 .content_image {
 	border: 0.4em solid #FFFFFF;
 	margin-right: 1.5em;
@@ -259,6 +260,15 @@ nav ul li {
 	box-shadow: 0 0 3px #000000;
 	width: 516px;
 	height: 516px;
+=======
+.albumcover_medium {
+	border: .4em solid #FFFFFF;
+	/* margin-right: .1em; */
+	-moz-box-shadow: 0 0 3px #000000;
+	-webkit-box-shadow: 0 0 3px #000000;
+	box-shadow: 0 0 3px #000000;
+	width: 90%;
+>>>>>>> e940b67be8bceb0c7a0bf605f6df54ac992b6ece
 }
 
 .albumcover_small {
@@ -338,4 +348,9 @@ nav ul li {
 
 .clearer {
 	clear: both;
+}
+
+img.community{
+	width: 100%;
+	margin: 0 0 2% 0;
 }
