@@ -10,8 +10,8 @@
 	margin: 0 auto;
 	padding: 0;
 	width: 100%;
-	max-width: 950px;
-	overflow:hidden;
+	max-width: 1000px;
+	overflow: hidden;
 }
 
 .row {
@@ -45,16 +45,16 @@
 .eleven { width: 91.666666667%; }
 .twelve { width: 100%; }
 
-.heading-column{ width: 20.666666666%; }
+.heading-column { width: 20.666666666%; }
 .heading-content-column { width: 2.222222222%; }
 .content-column { width: 70.666666666%; }
-.album-column { width: 23.555555555%; max-width:300px; }
+.album-column { width: 23.555555555%; }
 .content-sidebar-column { width: 6.444444444%; }
 .sidebar-column { width: 25%; }
 
-.main-content {width: 75%; overflow:hidden;}
+.main-content {width: 75%; overflow: hidden;}
 
 img {
-	/* width: 100%; */
+/*	 width: 100%; */
 	height: auto;
 }
